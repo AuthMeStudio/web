@@ -1,0 +1,36 @@
+
+
+.main-header{
+    position: relative;
+    margin-top: 50px;
+    background: url(../img/featuregraphic.jpg);
+    background-size: cover;
+    min-height: 500px;
+}
+
+.background-overlay{
+    position: absolute;
+    background: #5eea816c;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#img-presentacion{
+    width: 300px;
+}
+
+
+.border-g{
+    border-bottom:1px solid #5eea816c;
+}
+
+.form-control, .btn, .card{
+    border-radius: 0;
+}
+
+.accordion .card-body{
+    text-align: justify;
+    
+}

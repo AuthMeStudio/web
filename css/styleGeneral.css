@@ -1,11 +1,14 @@
-.logo{
-    width: 100px;
-    height: auto;
+body{
+    font-family: 'Times New Roman', Times, serif;
 }
 
-#testimonial{
-    background: #57e085e0;
-    padding: 50px 0px 30px 0px;
-    text-align: center;
-    margin-top: 40px;
+
+.app{
+    color: white;
+}
+
+.dropdown-menu a:hover{
+    color: white;
+    background: #5eea816c;
+    
 }
